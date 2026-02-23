@@ -38,19 +38,22 @@ Windows11 24H2 JDK25での動作を確認している．
 
 ![Windowsを選択](doc_images/install_java_1.jpg)
 
+
 2.x64 Installerを選択する(インストーラーのダウンロードが始まります)
 
 ![x64 Installerを選択](doc_images/install_java_2.jpg)
 
+
 3.エクスプローラーからダウンロードを開き，ダウンロードしたインストーラーをダブルクリック，画面の指示に従いJDK25をPCにインストールする
 
 ![インストーラーを実行](doc_images/install_java_3.jpg)
+
  
 # [使用方法]
-1.	jetlearnsystemのフォルダをダブルクリックする
+1.jetlearnsystemのフォルダをダブルクリックする
  
 
-2.	jetlearnsystem.jarをダブルクリックする
+2.jetlearnsystem.jarをダブルクリックする
  
 3.ホーム画面が表示されます
  
