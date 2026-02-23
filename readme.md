@@ -34,15 +34,17 @@ Windows11 24H2 JDK25での動作を確認している．
 以下のリンク，またはOracle公式サイトより，JDK25をダウンロードする．
 リンク: https://www.oracle.com/jp/java/technologies/downloads/
 
-1.上記ページ中部より，Windowsタブを選択する
- 
+1.上記ページ中部にて，Windowsタブを選択する
+
+![Windowsを選択](doc_images/install_java_1.jpg)
 
 2.x64 Installerを選択する(インストーラーのダウンロードが始まります)
- 
 
-3.ダウンロードしたインストーラーをダブルクリックし，画面の指示に従い，JDK25をPCにインストールする
+![x64 Installerを選択](doc_images/install_java_2.jpg)
 
- 
+3.エクスプローラーからダウンロードを開き，ダウンロードしたインストーラーをダブルクリック，画面の指示に従いJDK25をPCにインストールする
+
+![インストーラーを実行](doc_images/install_java_3.jpg)
  
 # [使用方法]
 1.	jetlearnsystemのフォルダをダブルクリックする
