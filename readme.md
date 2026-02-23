@@ -51,9 +51,12 @@ Windows11 24H2 JDK25での動作を確認している．
  
 # [使用方法]
 1.jetlearnsystemのフォルダをダブルクリックする
- 
+
+![JLSのフォルダを開く](doc_images/install_jls_1.jpg)
 
 2.jetlearnsystem.jarをダブルクリックする
+
+![JLSを開く](doc_images/install_jls_2.jpg)
  
 3.ホーム画面が表示されます
  
