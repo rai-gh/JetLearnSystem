@@ -5,7 +5,7 @@
 JetLearnSystemは、日本語で記述されたタートルグラフィックスプログラミング言語「JET」を学習・実行できるJavaベースの教育アプリケーションです。
 
 **作成者**: Ryoma Ohno・Raiki Yoshino（法政大学）  
-**版**: 1.0
+**Version**: 1.0.3 (2026/02/24)
 
 ---
 
@@ -33,7 +33,7 @@ JetLearnSystemは、日本語で記述されたタートルグラフィックス
   - Nimbus ルック&フィールを設定
   - イベントディスパッチスレッドで`HomeFrame`を表示
 
-**用途**: 開発者がこのクラスを変更することはめったにありません。起動処理の全体的な流れを制御します。
+**用途**: 起動処理の全体的な流れを制御します。
 
 ---
 
@@ -325,7 +325,7 @@ JetLearnSystemは、日本語で記述されたタートルグラフィックス
 
 **主要メソッド**:
 - `loadProblem(String problemId)` - 指定IDの問題定義を読み込み
-
+s
 #### `ExerciseStructureLoader`
 **ファイル**: `src/jetlearnsystem/ExerciseStructureLoader.java`
 
